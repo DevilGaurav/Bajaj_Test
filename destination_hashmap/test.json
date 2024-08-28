@@ -1,0 +1,19 @@
+{
+  "user": {
+    "id": 12345,
+    "name": "John Doe",
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "details": {
+        "zip": "10001",
+        "destination": "Central Park"
+      }
+    }
+  },
+  "meta": {
+    "timestamp": "2024-08-28T12:00:00Z",
+    "status": "active"
+  }
+}
